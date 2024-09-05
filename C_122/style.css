@@ -1,0 +1,14 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYAM7jUP6Tt9QpfU3ZZiXht_4Wty9XI-6a7g&s");
+	border-radius: 20px;
+}
